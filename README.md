@@ -1,8 +1,10 @@
-Team Name
 TeamDatakraft
 
 Team Members
-Andrew Goodman and 3 other members with unpublished profiles.
+Andrew Goodman
+Binod Kshetry
+James 
+Andrew
 
 Project Description
 
