@@ -1,6 +1,4 @@
-# GovHack2024
-AI in Government
-
+# GovHack2024 - AI in Government
 In the GovHack 2024 competition, our team of three create an AI solution - an Information Retrieval System to facilitate public to access information from the government website.
 
 Information Retrieval Systems in Government
