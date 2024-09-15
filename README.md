@@ -4,7 +4,6 @@
 Andrew Goodman
 Binod Kshetry
 James 
-Andrew
 
 ## Project Description
 
@@ -26,11 +25,12 @@ Our team of three developed an AI solution—an Information Retrieval System—t
 ## Data Story
 ## Example 1: Home affairs automated phone service - AI Governance challenge
 We collected information from Home Affairs website, strored it in a structured format as CSV file, fed it to a knowledgebase and utilised LLM's with TTS and STT technology for the voicebot (vapi). The data used was statistics on immigration to Australia.
+## Demo Video - https://youtu.be/nL5qbpU_pjs
 
 ##Challenge 2 - NT Location based Information Service
 We used datasets from the NT website including crime stats, accommodation providers, tour providers, crocodile capture data, ANZAC story data, etc.
 ## Video - https://youtu.be/-gdXsqQknT8
 
 ## Here are the links to the project:
-https://hackerspace.govhack.org/team_management/teams/2636
+https://hackerspace.govhack.org/projects/automated_government_call_centre
 
